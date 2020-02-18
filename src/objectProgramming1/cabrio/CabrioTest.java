@@ -1,4 +1,4 @@
-package objectProgramming1;
+package objectProgramming1.cabrio;
 
 public class CabrioTest {
     public static void main(String[] args) {

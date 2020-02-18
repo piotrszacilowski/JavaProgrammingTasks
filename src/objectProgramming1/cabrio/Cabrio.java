@@ -1,4 +1,4 @@
-package objectProgramming1;
+package objectProgramming1.cabrio;
 
 public class Cabrio {
     private String brand;

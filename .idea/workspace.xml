@@ -37,11 +37,11 @@
   </component>
   <component name="RunManager">
     <configuration name="CabrioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectProgramming1.CabrioTest" />
+      <option name="MAIN_CLASS_NAME" value="objectProgramming1.cabrio.CabrioTest" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectProgramming1.*" />
+          <option name="PATTERN" value="objectProgramming1.cabrio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581989461219</updated>
-      <workItem from="1581989464563" duration="1145000" />
+      <workItem from="1581989464563" duration="1400000" />
     </task>
     <servers />
   </component>
