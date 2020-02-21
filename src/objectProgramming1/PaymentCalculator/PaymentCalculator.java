@@ -8,7 +8,7 @@ public class PaymentCalculator {
         return emp.getMonthlySalary() * YEAR_MONTHS;
     }
 
-    public double bruttoYearPayment(Employee emp) {
+    public void bruttoYearPayment(Employee emp) {
 
     }
 }
