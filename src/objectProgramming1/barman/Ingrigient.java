@@ -1,4 +1,4 @@
 package objectProgramming1.barman;
 
-public class Drink {
+public class Ingrigient {
 }

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ec82169-4777-4495-818a-f843bef51240" name="Default Changelist" comment="" />
+    <list default="true" id="6ec82169-4777-4495-818a-f843bef51240" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/objectProgramming1/barman/Barman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectProgramming1/barman/Barman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectProgramming1/barman/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectProgramming1/barman/Ingridient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables/NumberArgs.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaProgrammingTasks" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,7 +26,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -133,11 +134,12 @@
       <workItem from="1582205120064" duration="2928000" />
       <workItem from="1584017703402" duration="2222000" />
       <workItem from="1584032478094" duration="4142000" />
+      <workItem from="1587985179581" duration="297000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="212" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1582209499430">
@@ -201,19 +203,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="287" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581991463719" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/variables/NumberArgs.java</url>
-          <line>31</line>
-          <properties class="variables.NumberArgs" method="printSum">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
