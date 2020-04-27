@@ -1,10 +1,10 @@
 package objectProgramming1.barman;
 
-public class Ingrigient {
+public class Ingridient {
     private String name;
     private double amount;
 
-    public Ingrigient(String name, double amount) {
+    public Ingridient(String name, double amount) {
         this.name = name;
         this.amount = amount;
     }
